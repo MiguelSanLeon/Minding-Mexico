@@ -15,6 +15,13 @@ h1, h2 {
     color:red;
     
 }
+h2 {
+    margin-left: 30px;
+    margin-top: 20px;
+    text-decoration: underline;
+    font-size: 120%;
+    text-shadow: 2px 2px #000;
+}
 #logo { 
     text-align: center;
     font-size: 350%;
@@ -68,15 +75,24 @@ nav {
 /* intro section */
 
 #intropic > img {
-    width: 400px;
-    min-height: 300px;
+    width: 500px;
+    height: 350px;
     object-fit: cover;
+    float: left;
+    margin: 20px;
+    padding: 20px;
 }
 .container {
-    border: 1px solid #000;
+    height: 400px;
+    display: flex;
+    justify-content: flex-start;
 }
-.columns {
-    width: 50%;
-    float: left;
+#text-box {
+    width: 40%;
+    margin: 20px;
+    font-size: 140%;
+    text-align: justify;
+}
+#text-box p {
     padding: 20px;
 }
