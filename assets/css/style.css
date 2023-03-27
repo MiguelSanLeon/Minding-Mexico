@@ -27,6 +27,7 @@ h2 {
     font-size: 350%;
     margin-top: 15px;
     text-shadow:2px 2px #000;
+    width: 100%;
 }
 /* navigation bar */
 
@@ -45,6 +46,7 @@ nav {
 }
 #navbar li {
     display: inline-block;
+    align-items: center;
 }
 #navbar a {
     color: #fff;
@@ -54,6 +56,19 @@ nav {
 }
 #navbar a:hover {
     color: #000;
+}
+button { 
+    color:#54595f;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 120%;
+}
+button:hover {
+    color:#000;
 }
 .active {
     border-bottom: 2px solid #000;
@@ -66,8 +81,6 @@ nav {
     padding-top: 4px;
 }
 #mainimage > img {
-    width: 24%;
-    height: 100%;
     object-fit: cover;
     width: 300px;
     height: 400px;  
@@ -75,23 +88,24 @@ nav {
 /* intro section */
 
 #intropic > img {
-    width: 500px;
-    height: 350px;
+    width: 280px;
     object-fit: cover;
     float: left;
     margin: 20px;
-    padding: 20px;
 }
 .container {
     height: 400px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 #text-box {
     width: 40%;
     margin: 20px;
     font-size: 140%;
     text-align: justify;
+    width: fit-content;
 }
 #text-box p {
     padding: 20px;
