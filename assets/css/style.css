@@ -121,4 +121,15 @@ em {
     height: 150px;
     background-color: red;
     color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.social-networks > li {
+    display: inline-block;
+}
+.social-networks i {
+    margin: 20px;
+    padding 10px;
+    font-size: 150%;
 }
