@@ -116,3 +116,9 @@ em {
 .text-box p {
     font-size: 100%;
 }
+/* footer */
+#footer {
+    height: 150px;
+    background-color: red;
+    color: #fff;
+}
