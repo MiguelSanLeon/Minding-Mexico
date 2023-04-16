@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 body {
     font-family: Roboto, sans-serif;
@@ -143,27 +144,9 @@ em {
     text-shadow:2px 2px #000;
 }
 .grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas: 
-    "description pic1 pic1"
-    "ingredients pic2 steps";
-}
-#description {
-    background-color: bisque;
-    grid-area: description;
-}
-#pic1 {
-    grid-area: pic1;
-}
-#pic2 {
-    grid-area: pic2;
-}
-#ingredients {
-    background-color: aqua;
-    grid-area: ingredients;
-}
-#steps {
-    background-color: aquamarine;
-    grid-area: steps;
+    border: 2px solid black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
