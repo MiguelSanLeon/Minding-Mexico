@@ -32,7 +32,6 @@ h2 {
     width: 100%;
 }
 /* navigation bar */
-
 a:link {
     text-decoration: none;
 }
@@ -58,19 +57,6 @@ nav {
 }
 #navbar a:hover {
     color: #000;
-}
-button { 
-    color:#54595f;
-    background-color: #fff;
-    border: none;
-    border-radius: 50px;
-    font-weight: bold;
-    padding-left: 8px;
-    padding-right: 8px;
-    font-size: 120%;
-}
-button:hover {
-    color:#000;
 }
 .active {
     border-bottom: 2px solid #000;
@@ -99,17 +85,13 @@ button:hover {
     object-fit: cover;
     margin: 20px 20px 0 20px;
 }
+.container {
+    margin: 5px;
+    border: 2px solid black;
+}
 em {
     margin: 20px;
     font-size: 12px;
-}
-
-.container {
-    border: 2px solid black;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
 }
 .text-box {
     margin: 20px;
@@ -160,4 +142,17 @@ em {
     padding:30px;
     background-color: rgb(104, 159, 155);
     height: auto;
+}
+@media screen and (min-width: 600px) {
+    
+    #columns {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+.container {
+    object-fit: cover;
+    width: 370px;
+}
 }
