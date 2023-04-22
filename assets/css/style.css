@@ -81,6 +81,7 @@ nav {
 .container {
     margin: 5px;
     border: 2px solid black;
+    text-align: center;
 }
 em {
     margin: 20px;
@@ -117,31 +118,26 @@ em {
     text-align: center;
     color: #54595f;
     text-shadow:2px 2px #000;
+    font-size: 2rem;
 }
 .recipe {
     border: 2px solid black;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
 #pic1 > img {
     margin: 5px;
     width: 90%;
     object-fit: cover;
-    justify-content: center;    
+    justify-content: center;
 }
 #pic2 > img {
     margin: 5px;
     width: 90%;
     object-fit: contain;
-    justify-content: center;  
 }
 #pic3 > img {
     margin: 5px;
     width: 90%;
     object-fit: contain;
-    justify-content: center;  
 }
 /* survey */
 #square {
@@ -160,8 +156,16 @@ em {
     text-align: center;
     justify-content: center;
 }
+    .recipe {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
 .container {
     object-fit: cover;
-    width: 370px;
+    max-width: 320px;
+    min-width: 280px;
 }
 }
