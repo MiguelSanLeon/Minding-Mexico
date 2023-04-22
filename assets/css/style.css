@@ -26,8 +26,8 @@ h2 {
 }
 #logo { 
     text-align: center;
-    font-size: 350%;
-    margin-top: 15px;
+    font-size: 8vw;
+    margin: 15px;
     text-shadow:2px 2px #000;
     width: 100%;
 }
