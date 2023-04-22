@@ -118,7 +118,7 @@ em {
     font-size: 150%;
 }
 /* cuisine */
-#title {
+.title {
     text-align: center;
     color: #54595f;
     text-shadow:2px 2px #000;
