@@ -139,6 +139,9 @@ em {
     justify-content: space-evenly;
     align-items: center;
 }
+#ingredients li {
+    padding-bottom: 10px;
+}
 /* survey */
 #square {
     margin: 30px;
