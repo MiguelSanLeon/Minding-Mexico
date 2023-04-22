@@ -118,12 +118,30 @@ em {
     color: #54595f;
     text-shadow:2px 2px #000;
 }
-.grid {
+.recipe {
     border: 2px solid black;
     width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
+}
+#pic1 > img {
+    margin: 5px;
+    width: 90%;
+    object-fit: cover;
+    justify-content: center;    
+}
+#pic2 > img {
+    margin: 5px;
+    width: 90%;
+    object-fit: contain;
+    justify-content: center;  
+}
+#pic3 > img {
+    margin: 5px;
+    width: 90%;
+    object-fit: contain;
+    justify-content: center;  
 }
 /* survey */
 #square {
