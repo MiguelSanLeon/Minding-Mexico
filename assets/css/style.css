@@ -13,7 +13,7 @@ h1 {
     font-size: 300%;
     letter-spacing: 4px;
 }
-h1, h2 {
+h1, h2, h3 {
     font-family: Merrywheater, sans-serif;
     text-transform: uppercase;
     color:rgb(128, 158, 156);
@@ -23,6 +23,9 @@ h2 {
     font-size: 120%;
     text-shadow: 1px 1px #000;
     text-align: center;
+}
+h3 {
+    text-shadow: 1px 1px #54595f;
 }
 #logo { 
     text-align: center;
@@ -54,6 +57,7 @@ nav {
     font-weight: bold;
     padding-left: 8px;
     padding-right: 8px;
+    transition-duration: 0.4s;
 }
 #navbar a:hover {
     color: #000;
@@ -123,30 +127,41 @@ em {
 .recipe {
     border: 2px solid black;
 }
-#pic1 > img {
+.picbox > img {
     margin: 5px;
     width: 90%;
     object-fit: cover;
     justify-content: center;
 }
-#pic2 > img {
-    margin: 5px;
-    width: 90%;
-    object-fit: contain;
-}
-#pic3 > img {
-    margin: 5px;
-    width: 90%;
-    object-fit: contain;
+#ingredients, #steps {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
 /* survey */
 #square {
     margin: 30px;
     border: #000 solid 3px ;
-    border-radius: 10%;
+    border-radius: 20px;
     padding:30px;
     background-color: rgb(104, 159, 155);
     height: auto;
+}
+.button {
+    color: #4f6959;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 3px;
+    border: 2px solid #fdfdfd;
+    padding: 6px;
+    border-radius: 12px;
+    background-color: #000;
+    transition-duration: 0.4s;
+}
+.button:hover {
+    background-color: #fdfdfd;
+    border: 2px solid #000;
 }
 /* media queries */
 @media screen and (min-width: 600px) {
