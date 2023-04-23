@@ -156,18 +156,18 @@ em {
     height: auto;
 }
 .button {
-    color: #4f6959;
+    color: #54595f;
     text-transform: uppercase;
     font-weight: bold;
     margin: 3px;
-    border: 2px solid #fdfdfd;
+    border: 2px solid #fff;
     padding: 6px;
     border-radius: 12px;
     background-color: #000;
     transition-duration: 0.4s;
 }
 .button:hover {
-    background-color: #fdfdfd;
+    background-color: #fff;
     border: 2px solid #000;
 }
 /* media queries */
