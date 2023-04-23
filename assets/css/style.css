@@ -43,7 +43,7 @@ a:link {
     text-decoration: none;
 }
 #navbar {
-    background-color: #4f6959;
+    background-color: #006847;
     font-size: 120%;
     letter-spacing: 3px;
     padding: 15px 0 15px 0;
@@ -107,7 +107,7 @@ em {
 /* footer */
 #footer {
     height: 150px;
-    background-color: rgb(184, 14, 14);
+    background-color: rgb(206, 17, 38);
     color: #fff;
     display: flex;
     align-items: center;
