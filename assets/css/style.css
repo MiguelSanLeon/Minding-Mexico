@@ -5,6 +5,7 @@
     border: none;
     box-sizing: border-box;
 }
+/* fonts set up */
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
@@ -13,6 +14,7 @@ h1 {
     font-size: 300%;
     letter-spacing: 4px;
 }
+/* specifies fonts for headers*/
 h1, h2, h3 {
     font-family: Merrywheater, sans-serif;
     text-transform: uppercase;
@@ -27,6 +29,7 @@ h2 {
 h3 {
     text-shadow: 1px 1px #54595f;
 }
+/* logo Style*/
 #logo { 
     text-align: center;
     font-size: 8vw;
@@ -35,6 +38,7 @@ h3 {
     width: 100%;
 }
 /* navigation bar */
+/* remove underline from anchors*/
 a:link {
     text-decoration: none;
 }
@@ -48,10 +52,12 @@ nav {
     text-align: center;
     list-style: none;
 }
+/* fix anchor position */
 #navbar li {
     display: inline-block;
     align-items: center;
 }
+/* style and effect for anchors*/
 #navbar a {
     color: #fff;
     font-weight: bold;
@@ -59,11 +65,9 @@ nav {
     padding-right: 8px;
     transition-duration: 0.4s;
 }
+/* hover effect*/
 #navbar a:hover {
     color: #000;
-}
-.active {
-    border-bottom: 2px solid #000;
 }
 /* main image */
 #mainimage {
