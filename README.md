@@ -19,32 +19,31 @@ To deploy this project run
 ## Table of contents
 
 1. [User Experience (UX)](#user-experience-ux)
-        * [Project Goals](#project-goals)
-        * [Color Scheme](#color-scheme)
-        * [Typography](#typography)
-        * [Users stories](#users-stories)
-        * [Wireframes](#wireframes)
+    * [Project Goals](#project-goals)
+    * [Color Scheme](#color-scheme)
+    * [Typography](#typography)
+    * [Users stories](#users-stories)
  2. [Features](#features)
-        * [General](#general)
-        * [Landing page](#landing-page)
-        * [Recipe page](#recipe-page)
-        * [Survey page](#survey-page)
-        * [Error Page](#error-page)
+    * [General](#general)
+    * [Landing page](#landing-page)
+    * [Recipe page](#recipe-page)
+    * [Survey page](#survey-page)
+    * [Error Page](#error-page)
 3. [Technologies Used](#technologies-used)
-        * [Languages Used](#languages-used)
-        * [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+    * [Languages Used](#languages-used)
+    * [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 4. [Testing](#testing)
-        * [Code Validation](#code-validation)
-        * [Accessibility](#accessibility)
-        * [Tools Testing](#tools-testing)
-        * [Manual Testing](#manual-testing)
+    * [Code Validation](#code-validation)
+    * [Accessibility](#accessibility)
+    * [Tools Testing](#tools-testing)
+    * [Manual Testing](#manual-testing)
 5. [Finished Product](#finished-product)
 6. [Deployment](#deployment)
-        * [GitHub-deploy](#github-deploy)
+    * [GitHub-deploy](#github-deploy)
 7. [Credits](#credits)
-        * [Content](#content)
-        * [Media](#media)
-        * [Code](#code)
+    * [Content](#content)
+    * [Media](#media)
+    * [Code](#code)
 8. [Acknowledgements](#acknowledgements)
 
 ## User experience
@@ -119,16 +118,23 @@ understandable way for the user.
           independence in Mexico City, a pre-Hispanic egg-shaped sculpture with the face
           of an Aztec god carved on it, the flagship of the Mexican navy, the Cuauhtemoc and
           finally the eagle head carved in stone from the pre-Hispanic era.
-![main image](assets/readme-files/mainimage.png)
+
+![Main image](assets/readme-files/mainimage.png)
+
      - Mexico from the heart, with a brief introduction to mexico and a brief history of the
-          construction of the fine arts palace in mexico city. you can also enjoy an image of the
-          fine arts palace.
-![Mexico from the heart](assets/readme-files/Mexicoheart.png)
+        construction of the fine arts palace in mexico city. you can also enjoy an image of the
+        fine arts palace.
+
+![Mexico from the heart](assets/readme-files/mexicoheart.png)
+
      - The mexican flag and shield, with the history of the Mexican shield and a description
-          of the Mexican flag. At the bottom you can admire the mexican flag. 
+        of the Mexican flag. At the bottom you can admire the mexican flag. 
+
 ![Mexican flag and shield](assets/readme-files/mexicanflag.png)
+
       - Mexican culture, where the festival of the day of the dead in Mexico is described, its 
-          customs and its origins.You can also enjoy a mexican woman dressed up as a Catrina.
+        customs and its origins.You can also enjoy a mexican woman dressed up as a Catrina.
+
 ![Mexican culture](assets/readme-files/mexicanculture.png)          
 ### Recipe page
 
@@ -139,10 +145,15 @@ understandable way for the user.
 
         - The first column, Guacalome recipe, contains a description of the dish, the history
           behind it and the most popular uses for guacamole.
+
 ![Guacamole recipe](assets/readme-files/guacamolerecipe.png)
+
         - The second column, Ingredients, contains the ingredients for the recipe.
+
 ![Ingredients](assets/readme-files/ingredients.png)
+
         - The third column, contains the instruction or method to create this delicuous dip.
+
 ![Method](assets/readme-files/method.png)
 
 ### Survey page
@@ -162,8 +173,8 @@ understandable way for the user.
 
 ### Languages Used
 
-![HTML5](https://en.wikipedia.org/wiki/HTML5)
-![CSS3](https://en.wikipedia.org/wiki/CSS)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries and Programs Used
 
