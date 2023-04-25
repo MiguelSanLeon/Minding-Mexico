@@ -2,7 +2,7 @@
 
 This website is made for people who love Mexico and for all the people who wants to know more about it's amazing culture, history and hidden places.
 
-Visit the deployed website [here]()
+Visit the deployed website [here](https://miguelsanleon.github.io/Minding-Mexico/)
 
 ## Mockup
 ![minding mexico mockup image](assets/readme-files/mockup.png)
@@ -147,13 +147,13 @@ understandable way for the user.
 
 ### Survey page
 
-![Survey page](assets/readme-files/survey.png)
+![Survey page](assets/readme-files/surveypagedesktop.png)
 
     - The survey page only has 3 questions with 3 options each, and a submit button that send you to the error page.
 
 ### Error page
 
-![Error page](assets/readme-files/errorpage.png)
+![Error page](assets/readme-files/errorpagedesktop.png)
 
     - The error page is a simple desing with a thanks message and a button to return to landing page.
 
@@ -357,7 +357,35 @@ understandable way for the user.
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-landing page |
-Recipe page |
-Survey page |
-Error page | 
+landing page | ![landing page desktop](assets/readme-files/landingpagedesktop.png) | ![landing page mobile](assets/readme-files/landingpagemobile.png)
+Recipe page | ![recipe page desktop](assets/readme-files/recipepagedesktop.png) | ![recipe page mobile](assets/readme-files/recipepagemobile.png)
+Survey page | ![survey page desktop](assets/readme-files/surveypagedesktop.png) | ![survey page mobile](assets/readme-files/surveypagemobile.png)
+Error page | ![error page desktop](assets/readme-files/errorpagedesktop.png) | ![error page mobile](assets/readme-files/errorpagemobile.png)
+
+[Back to top ](#minding-mexico)
+
+## Deployment
+
+### GitHub-deploy
+
+* This are the steps I followed to deploy my project from its GitHub repository:
+
+1. Open [GitHub Repository](https://github.com/) login and find the project repository.
+2. At the top of the repository on the right corner click on settings button.
+3. Go to Pages section inside settings.
+4. Go to Branch tag and find a dropdown menu where you can choose between none or main.
+5. Select main, after a short waiting GitHub will generate your website link.
+
+[Back to top ](#minding-mexico)
+
+## Credits
+
+### Content
+
+* All content was originally created and written by Miguel Angel Sanchez Leon, the developer.
+
+### Media
+
+* Main image and it's 4 pictures [angel.jpg arteaztecahuevo.jpg ateaztecapajaro.jpg cuautemoc.jpg] were taken personally by the developer in his visits to Mexico city and the Jurney of Cuauhtemoc ship to Huelva, his hometown.
+
+* Fine arts palace in Mexico [palacioba.jpg] is an original photo taken by the developer
