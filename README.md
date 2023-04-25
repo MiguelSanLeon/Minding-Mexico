@@ -79,11 +79,9 @@ As a user:
 * I would like to see nice pictures related to mexican culture.
 * I would like to have a good mexican recipe to enjoy mexican food.
 * I would like to have some interaction with in the website.
-### Wireframes
-
-
 
 [back to top](#minding-mexico)
+
 ## Features
 
 ### General
@@ -110,8 +108,6 @@ understandable way for the user.
 
 ### Landing page
 
-![Landing page](assets/readme-files/landingpage.png)
-
   * The landing page consists of 4 sections:
 
     - A main image that in turn contains 4 beautiful photos of Mexico: the angel of 
@@ -135,10 +131,9 @@ understandable way for the user.
       - Mexican culture, where the festival of the day of the dead in Mexico is described, its 
         customs and its origins.You can also enjoy a mexican woman dressed up as a Catrina.
 
-![Mexican culture](assets/readme-files/mexicanculture.png)          
-### Recipe page
+![Mexican culture](assets/readme-files/mexicanculture.png)  
 
-![Recipe page](assets/readme-files/recipe.png)
+### Recipe page
 
    - The recipe page contains the recipe for guacamole dip, and is made up of 3 sections
       arranged in columns with an image at the bottom:
@@ -161,6 +156,7 @@ understandable way for the user.
 ![Survey page](assets/readme-files/survey.png)
 
     - The survey page only has 3 questions with 3 options each, and a submit button that send you to the error page.
+
 ### Error page
 
 ![Error page](assets/readme-files/errorpage.png)
@@ -287,6 +283,7 @@ understandable way for the user.
     - Mobile version:
 
         ![lighthouse error page mobile](assets/readme-files/lherrorpage.png)
+
 
 
 
