@@ -102,60 +102,60 @@ understandable way for the user.
 
 ### Landing page
 
-  * The landing page consists of 4 sections:
+* The landing page consists of 4 sections:
 
     - A main image that in turn contains 4 beautiful photos of Mexico: the angel of 
           independence in Mexico City, a pre-Hispanic egg-shaped sculpture with the face
           of an Aztec god carved on it, the flagship of the Mexican navy, the Cuauhtemoc and
           finally the eagle head carved in stone from the pre-Hispanic era.
 
-![Main image](assets/readme-files/mainimage.png)
+    ![Main image](assets/readme-files/mainimage.png)
 
-     - Mexico from the heart, with a brief introduction to mexico and a brief history of the
+    - Mexico from the heart, with a brief introduction to mexico and a brief history of the
         construction of the fine arts palace in mexico city. you can also enjoy an image of the
         fine arts palace.
 
-![Mexico from the heart](assets/readme-files/mexicoheart.png)
+    ![Mexico from the heart](assets/readme-files/mexicoheart.png)
 
      - The mexican flag and shield, with the history of the Mexican shield and a description
         of the Mexican flag. At the bottom you can admire the mexican flag. 
 
-![Mexican flag and shield](assets/readme-files/mexicanflag.png)
+    ![Mexican flag and shield](assets/readme-files/mexicanflag.png)
 
       - Mexican culture, where the festival of the day of the dead in Mexico is described, its 
         customs and its origins.You can also enjoy a mexican woman dressed up as a Catrina.
 
-![Mexican culture](assets/readme-files/mexicanculture.png)  
+    ![Mexican culture](assets/readme-files/mexicanculture.png)  
 
 ### Recipe page
 
-   - The recipe page contains the recipe for guacamole dip, and is made up of 3 sections
+- The recipe page contains the recipe for guacamole dip, and is made up of 3 sections
       arranged in columns with an image at the bottom:
 
-        - The first column, Guacalome recipe, contains a description of the dish, the history
+    - The first column, Guacalome recipe, contains a description of the dish, the history
           behind it and the most popular uses for guacamole.
 
-![Guacamole recipe](assets/readme-files/guacamolerecipe.png)
+    ![Guacamole recipe](assets/readme-files/guacamolerecipe.png)
 
-        - The second column, Ingredients, contains the ingredients for the recipe.
+    - The second column, Ingredients, contains the ingredients for the recipe.
 
-![Ingredients](assets/readme-files/ingredients.png)
+    ![Ingredients](assets/readme-files/ingredients.png)
 
-        - The third column, contains the instruction or method to create this delicuous dip.
+    - The third column, contains the instruction or method to create this delicuous dip.
 
-![Method](assets/readme-files/method.png)
+    ![Method](assets/readme-files/method.png)
 
 ### Survey page
 
 ![Survey page](assets/readme-files/surveypagedesktop.png)
 
-    - The survey page only has 3 questions with 3 options each, and a submit button that send you to the error page.
+- The survey page only has 3 questions with 3 options each, and a submit button that send you to the error page.
 
 ### Error page
 
 ![Error page](assets/readme-files/errorpagedesktop.png)
 
-    - The error page is a simple desing with a thanks message and a button to return to landing page.
+- The error page is a simple desing with a thanks message and a button to return to landing page.
 
 [back to top](#minding-mexico)
 
