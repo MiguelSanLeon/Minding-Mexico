@@ -386,6 +386,30 @@ Error page | ![error page desktop](assets/readme-files/errorpagedesktop.png) | !
 
 ### Media
 
-* Main image and it's 4 pictures [angel.jpg arteaztecahuevo.jpg ateaztecapajaro.jpg cuautemoc.jpg] were taken personally by the developer in his visits to Mexico city and the Jurney of Cuauhtemoc ship to Huelva, his hometown.
+* Main image and it's 4 pictures (angel.jpg arteaztecahuevo.jpg ateaztecapajaro.jpg cuautemoc.jpg) were taken personally by the developer in his visits to Mexico city and the Jurney of Cuauhtemoc ship to Huelva, his hometown.
 
-* Fine arts palace in Mexico [palacioba.jpg] is an original photo taken by the developer
+* Fine arts palace in Mexico (palacioba.jpg) is an original photo taken by the developer
+
+* The mexican flag (flag-42281_1280.png) was taken from [wikimedia commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.png)
+
+* The picture of the woman dressed up as Catrina was taken from [Pexels](https://www.pexels.com/es-es/foto/mujer-vestido-disfraz-corona-14205785/) by Aldair Nunez.
+
+* The picture of guacamole bowl from guacamole recipe section was taken from [Pexels](https://www.pexels.com/photo/green-vegetable-on-black-ceramic-bowl-4411802/) by Isabella Mendez
+
+* The Avocado picture from ingredients section was taken from [Pexels](https://www.pexels.com/tr-tr/fotograf/pazarda-taze-avokado-14840388/) by Engin AKiurt.
+
+* The picture with the bowl and the ingredients as well from method section was taken from [Pexels](https://www.pexels.com/photo/close-up-of-guacamole-bowl-6400018/) by Alleksana.
+
+### Code
+
+* [W3Schools](https://www.w3schools.com/) were visited for better understanding of coding elements syntax.
+
+[Back to top ](#minding-mexico)
+
+## Acknowledgements
+
+* Code Institute and slack community for all the support in this project
+* My Beautiful wife that has been helping with all my dutties at home to give more time for the project.
+* Marcel, my mentor for his kind help and his time.
+
+[Back to top ](#minding-mexico)
