@@ -217,7 +217,7 @@ understandable way for the user.
 * Caption tag not allowed, solved changing caption for p elements.
 * Typing error in aria-label, typo fixed.
 
-![Validation landing page 2](assets/readme-files/validationlandingpagesolver.png)
+![Validation landing page 2](assets/readme-files/validationlandingpagesolved.png)
 
 * All problems sorted.
 
