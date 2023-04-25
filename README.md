@@ -250,6 +250,45 @@ understandable way for the user.
 ### Accesibility
 
 * Lighthouse Devtool from Google Chrome used for testing.
+* Lighthouse testing:
+
+ + Landing page:
+    - Desktop version:
+
+        ![lighthouse landing page desktop](assets/readme-files/lhlandingpagedesktop.png)
+
+    - Mobile version:
+
+        ![lighthouse landing page mobile](assets/readme-files/lhlandingpage.png)
+
++ Recipe page:
+    - Desktop version:
+        
+        ![lighthouse recipe page desktop](assets/readme-files/lhrecipedesktop.png)
+    
+    - Mobile version:
+        
+        ![lighthouse recipe page mobile](assets/readme-files/lhrecipe.png)
+
++ Survey page:
+    - Desktop version:
+
+        ![lighthouse survey page desktop](assets/readme-files/lhsurveydesktop.png)
+
+    - Mobile version:
+
+        ![lighthouse survey page mobile](assets/readme-files/lhsurvey.png)
+
++ Error page:
+    - Desktop version:
+
+        ![lighthouse error page desktop](assets/readme-files/lherrorpagedesktop.png)
+
+    - Mobile version:
+
+        ![lighthouse error page mobile](assets/readme-files/lherrorpage.png)
+
+
 
 
 
