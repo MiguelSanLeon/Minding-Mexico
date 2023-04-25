@@ -2,18 +2,10 @@
 
 This website is made for people who love Mexico and for all the people who wants to know more about it's amazing culture, history and hidden places.
 
-
+Visit the deployed website [here]()
 
 ## Mockup
 ![minding mexico mockup image](assets/readme-files/mockup.png)
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Table of contents
@@ -36,7 +28,9 @@ To deploy this project run
     * [Code Validation](#code-validation)
     * [Accessibility](#accessibility)
     * [Tools Testing](#tools-testing)
+    * [Testing stories](#testing-stories)
     * [Manual Testing](#manual-testing)
+    * [Unfixed bugs](#unfixed-bugs)
 5. [Finished Product](#finished-product)
 6. [Deployment](#deployment)
     * [GitHub-deploy](#github-deploy)
@@ -284,8 +278,86 @@ understandable way for the user.
 
         ![lighthouse error page mobile](assets/readme-files/lherrorpage.png)
 
+### Tools testing
+    
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
+    - Chrome DevTools was used to explore and modify HTML and CSS during development.
+* Responsiveness
+    
+    - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check the website responsiveness on different screen size.
 
+### Testing stories
 
+* I would like to receive correct and truthful information about Mexico.
 
+    - The web page includes interesting and proven information about Mexico.
 
+* I would like to see nice pictures related to mexican history.
+
+    - The websites has some pictures showing pre-hispanic sculptures, momuments and buildings.
+
+* I would like to see nice pictures related to mexican culture.
+
+    - The website has pictures of pre-hispanic culture and also a picture of a traditional festivity.
+
+* I would like to have a good mexican recipe to enjoy mexican food.
+
+    - The website displays the guacamole recipe with all the ingredients and method.
+
+* I would like to have some interaction with in the website.
+
+    - The website has a survey that everyone can fill out.
+
+### Manual testing
+
+* Common element testing
+
+    - All Pages
+        
+        - **Header**
+
+            - Clicking on the main logo will bring the user back to the landing page.
+
+        - **Navigation Bar**
+
+            - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the user.
+
+            - Clicking on the navigation bar's links will bring the user to the specified page.
+        
+        - **Footer**
+        
+            - Clicking on the social media links will open the specific website on a new tab.
+    
+    - Landing page:
+
+        - This page only has interactions in the Header, navigation bar and footer that has been tested already.
+    
+    - Recipe page:
+
+        - This page only has interactions in the Header, navigation bar and footer that has been tested already.
+    
+    - Survey page:
+
+        - Clicking on the radio elements all of them works properly and leaving one or more empty will display a message "select one option" when submiting.
+
+        - Hovering over submit button triggers hover effect and bring the user to error page.
+    
+    - Error page:
+
+        - Fliping home icon works properly and will bring the user to home page when clicking.
+    
+### Unfixed bugs
+
+* No unfixed bugs remaining in the website.
+
+[Back to top ](#minding-mexico)
+
+## Finished product
+
+Page | Desktop version | Mobile version
+--- | --- | ---
+landing page |
+Recipe page |
+Survey page |
+Error page | 
